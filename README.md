@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @igsais.
-- 📚 I'm currently a math student at Universidad de Sevilla.
+- 📚 I'm currently a Math student at Universidad de Sevilla.
 - 🏎️💨 I'm also working at ARUSfs as part of the DRIVERLESS department. My job is to implement the camera-based perception on the car.
 
 <!---
